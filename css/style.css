@@ -1,0 +1,29 @@
+a{
+    color: #1a0dab;
+    text-decoration: none;
+    transition: color 0.3s ease;
+    font-size: 20px;
+}
+a:hover{
+    color: #2570d9;
+}
+
+h1{
+    font-size: 45px;
+    color: #0e1b41;
+    margin-bottom: 20px;
+    text-shadow: 
+    0 6px rgb(229, 219, 253);
+    font-weight: 700;
+}
+
+
+
+.card{
+    background: radial-gradient(circle, #bab3fc, #fafaff);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid #f9f3f3;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 20px;
+}

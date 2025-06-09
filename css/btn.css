@@ -1,0 +1,17 @@
+.btn-regresar{
+    background: radial-gradient(circle, #494dad, #6363c0);
+    color: #f0edfc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid #f9f3f3;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.btn-color{
+    background: radial-gradient(circle, #4c4787, #51518e);
+    color: #f0edfc;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 1px solid #f9f3f3;
+    border-radius: 8px;
+    padding: 10px;
+}
