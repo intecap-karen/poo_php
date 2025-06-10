@@ -1,4 +1,4 @@
-a{
+a {
     color: #1a0dab;
     text-decoration: none;
     transition: color 0.3s ease;
@@ -16,8 +16,6 @@ h1{
     0 6px rgb(229, 219, 253);
     font-weight: 700;
 }
-
-
 
 .card{
     background: radial-gradient(circle, #bab3fc, #fafaff);
